@@ -6,11 +6,26 @@ html {
 
 body {
 	color: #001C40;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #001C40;
+}
+
+.container {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: fixed;
+    width: 100%;
 }
 
 .heading {
 	font-family: "garamond-premier-pro-display";
 	font-weight: 700;
 	font-style: normal;
-	font-size: 72px;
+	font-size: 102px;
 }
