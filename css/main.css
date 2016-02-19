@@ -35,3 +35,12 @@ a {
 	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
 	font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
 }
+
+.social {
+	text-align: center;
+	font-size: 2em;
+}
+
+.social-icon + .social-icon {
+	margin-left: 1em;
+}
