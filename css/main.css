@@ -7,3 +7,10 @@ html {
 body {
 	color: #001C40;
 }
+
+.heading {
+	font-family: "garamond-premier-pro-display";
+	font-weight: 700;
+	font-style: normal;
+	font-size: 72px;
+}
