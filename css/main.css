@@ -27,7 +27,8 @@ a {
 	font-family: "garamond-premier-pro-display";
 	font-weight: 700;
 	font-style: normal;
-	font-size: 102px;
+	font-size: 5.2em;
+	text-align: center;
 	font-kerning: normal;
 	font-variant-ligatures: common-ligatures, contextual, discretionary-ligatures;
 	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
@@ -35,6 +36,21 @@ a {
 	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
 	font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
 }
+
+.headingtwo {
+	font-family: "garamond-premier-pro-display";
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2.2em;
+	text-align: center;
+	font-kerning: normal;
+	font-variant-ligatures: common-ligatures, contextual, discretionary-ligatures;
+	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
+	-ms-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
+	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
+	font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
+}
+
 
 .social {
 	text-align: center;
