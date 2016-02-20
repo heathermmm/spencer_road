@@ -1,5 +1,5 @@
 html {
-	background: #FD8428;
+	background: #ffcc99;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -27,8 +27,9 @@ a {
 	font-family: "garamond-premier-pro-display";
 	font-weight: 700;
 	font-style: normal;
-	font-size: 5.2em;
+	font-size: 7.2em;
 	text-align: center;
+	margin-bottom: 0px;
 	font-kerning: normal;
 	font-variant-ligatures: common-ligatures, contextual, discretionary-ligatures;
 	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "dlig";
