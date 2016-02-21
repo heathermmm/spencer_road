@@ -19,6 +19,7 @@ a {
     justify-content: center;
     align-items: center;
     height: 100%;
+    overflow: scroll;
     position: fixed;
     width: 100%;
 }
